@@ -3,9 +3,9 @@
 <p align="center"><img src="--" alt="Screenshot"></p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/M0nkeyroger/Space-InvadersJS" alt="License">
-  <img src="https://img.shields.io/github/stars/M0nkeyroger/Space-InvadersJS" alt="Stars">
-  <img src="https://img.shields.io/github/forks/M0nkeyroger/Space-InvadersJS" alt="Forks"> <br>
+  <img src="https://img.shields.io/github/license/M0nkeyroger/Team-Chat-Webapp" alt="License">
+  <img src="https://img.shields.io/github/stars/M0nkeyroger/Team-Chat-Webapp" alt="Stars">
+  <img src="https://img.shields.io/github/forks/M0nkeyroger/Team-Chat-Webapp" alt="Forks"> <br>
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
