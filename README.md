@@ -1,6 +1,6 @@
 <h1 align="center">👾 Discord Clone 👾 </h1>
 
-<p align="center"><img src="--" alt="Screenshot"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/M0nkeyroger/Team-Chat-Webapp/main/Capture.PNG" alt="Screenshot"></p>
 
 <p align="center">
   <img src="https://img.shields.io/github/license/M0nkeyroger/Team-Chat-Webapp" alt="License">
